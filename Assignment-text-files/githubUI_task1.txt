@@ -1,0 +1,25 @@
+repo ==>
+https://github.com/rowan-505/github-final-project
+
+readme==>
+https://github.com/rowan-505/github-final-project/blob/main/README.md
+
+license ==>
+https://github.com/rowan-505/github-final-project/blob/main/LICENSE
+
+code of conduct ==>
+https://github.com/rowan-505/github-final-project/blob/main/CODE_OF_CONDUCT.md
+
+contributing.md ==>
+https://github.com/rowan-505/github-final-project/blob/main/CONTRIBUTING.md
+
+simple_interst.sh
+https://github.com/rowan-505/github-final-project/blob/main/simple-interest.sh
+
+
+
+fork for task 2 ==>
+https://github.com/rowan-505/Centralized-repository-shipping_calculations
+
+
+
